@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hey, I am John Doe! on Hugoplate</title><link>https://julien-duval.github.io/portfolio/about/</link><description>Recent content in Hey, I am John Doe! on Hugoplate</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://julien-duval.github.io/portfolio/about/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salut, je suis Julien ! on Julien Duval</title>
+    <link>http://localhost:1313/portfolio/about/</link>
+    <description>Recent content in Salut, je suis Julien ! on Julien Duval</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="http://localhost:1313/portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

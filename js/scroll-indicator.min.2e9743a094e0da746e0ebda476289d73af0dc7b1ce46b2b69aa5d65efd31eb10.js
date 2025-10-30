@@ -1,0 +1,1 @@
+(()=>{window.addEventListener("scroll",function(){const e=document.querySelector(".scroll-indicator");window.scrollY>100?(e.style.opacity="0",e.style.visibility="hidden"):(e.style.opacity="1",e.style.visibility="visible")})})()

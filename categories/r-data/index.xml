@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R, Data on Julien Duval</title><link>https://julien-duval.github.io/portfolio/categories/r-data/</link><description>Recent content in R, Data on Julien Duval</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Wed, 06 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://julien-duval.github.io/portfolio/categories/r-data/index.xml" rel="self" type="application/rss+xml"/><item><title>Méthodes de régressions avancées</title><link>https://julien-duval.github.io/portfolio/blog/post-3/</link><pubDate>Wed, 06 Apr 2022 05:00:00 +0000</pubDate><guid>https://julien-duval.github.io/portfolio/blog/post-3/</guid><description>&lt;p&gt;Construire un modèle robuste et généralisable capable de prédire y pour des données inconnues &lt;strong&gt;(Xtest)&lt;/strong&gt; en explorant et en comparant plusieurs approches modernes de régression.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R, Data on Julien Duval</title>
+    <link>http://localhost:1313/portfolio/categories/r-data/</link>
+    <description>Recent content in R, Data on Julien Duval</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 06 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/categories/r-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Méthodes de régressions avancées</title>
+      <link>http://localhost:1313/portfolio/blog/post-3/</link>
+      <pubDate>Wed, 06 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/blog/post-3/</guid>
+      <description>&lt;p&gt;Construire un modèle robuste et généralisable capable de prédire y pour des données inconnues &lt;strong&gt;(Xtest)&lt;/strong&gt; en explorant et en comparant plusieurs approches modernes de régression.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
